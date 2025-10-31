@@ -2,11 +2,12 @@ Smart Stroke Risk Monitoring System
 
 An AI-powered web application to predict stroke risk using a Decision Tree model (94.6% accuracy) and interactive visualizations. This project was developed as a field project for New Arts, Commerce and Science College, Ahmednagar, and presented at the ICADMA-2025 conference.
 
-🚀 Live Demo
 
-Try the live application here: [https://[YOUR-STREAMLIT-APP-URL-HERE]](https://sanikatribhuvan-stroke-risk-monitor-app--app-33cixd.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sanikatribhuvan-stroke-risk-monitor-app--app-33cixd.streamlit.app/)
 
-(Note: Add your live Streamlit URL here after deployment)
+## 🚀 Live Demo
+
+**Try the live application here:** [https://sanikatribhuvan-stroke-risk-monitor-app--app-33cixd.streamlit.app/](https://sanikatribhuvan-stroke-risk-monitor-app--app-33cixd.streamlit.app/)
 
 📸 Application Preview
 
