@@ -4,7 +4,7 @@ An AI-powered web application to predict stroke risk using a Decision Tree model
 
 🚀 Live Demo
 
-Try the live application here: https://[YOUR-STREAMLIT-APP-URL-HERE]
+Try the live application here: [https://[YOUR-STREAMLIT-APP-URL-HERE]](https://sanikatribhuvan-stroke-risk-monitor-app--app-33cixd.streamlit.app/)
 
 (Note: Add your live Streamlit URL here after deployment)
 
